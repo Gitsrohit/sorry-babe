@@ -9,7 +9,7 @@ interface Props {
 
 const reasons = [
   { emoji: "😔", text: "I was wrong and I know it" },
-  { emoji: "💭", text: "I should have thought before I spoke" },
+  { emoji: "💭", text: "I hate seeing you upset because of me" },
   { emoji: "🤦", text: "I was being stupid, not mean" },
   { emoji: "💝", text: "You mean the world to me" },
   { emoji: "🌙", text: "I can't sleep knowing you're upset" },
